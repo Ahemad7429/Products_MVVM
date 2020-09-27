@@ -1,0 +1,279 @@
+{
+    "data": [{
+            "fName": "Jinesh",
+            "lName": "Patel",
+            "email": "jinesh@gmail.com",
+            "birthdate": "1101095309",
+            "isActive": true,
+            "product": [{
+                "name": "Chair",
+                "price": "500",
+                "discount": "10"
+            }, {
+                "name": "Sofa",
+                "price": "8500",
+                "discount": "12"
+            }]
+        }, {
+            "fName": "Akshay",
+            "lName": "Kumar",
+            "email": "Akshay@gmail.com",
+            "birthdate": "1111095309",
+            "isActive": true,
+            "product": [{
+                    "name": "Mobile",
+                    "price": "25000",
+                    "discount": "12"
+                }, {
+                    "name": "LG TV",
+                    "price": "18500",
+                    "discount": "19"
+                },
+                {
+                    "name": "Radio",
+                    "price": "9900",
+                    "discount": "6"
+                }
+            ]
+        },
+        {
+            "fName": "John",
+            "lName": "White",
+            "email": "john@gmail.com",
+            "birthdate": "1121095309",
+            "isActive": true,
+            "product": []
+        }, {
+            "fName": "Mukesh",
+            "lName": "Jani",
+            "email": "mukesh@gmail.com",
+            "birthdate": "1141095309",
+            "isActive": true,
+            "product": [{
+                    "name": "Shampoo",
+                    "price": "190",
+                    "discount": "3"
+                }, {
+                    "name": "Shoap",
+                    "price": "480",
+                    "discount": "5"
+                },
+                {
+                    "name": "Bucket",
+                    "price": "410",
+                    "discount": "40"
+                }
+            ]
+        }, {
+            "fName": "Anil",
+            "lName": "Sharma",
+            "email": "anil@gmail.com",
+            "birthdate": "1151095309",
+            "isActive": true,
+            "product": [{
+                "name": "Router",
+                "price": "2100",
+                "discount": "20"
+            }, {
+                "name": "Lan cable",
+                "price": "1500",
+                "discount": "43"
+            }]
+        },
+        {
+            "fName": "Mac",
+            "lName": "Jackson",
+            "email": "macj21@gmail.com",
+            "birthdate": "1177095309",
+            "isActive": true,
+            "product": [{
+                "name": "Mac Air",
+                "price": "156000",
+                "discount": "8"
+            }]
+        }, {
+            "fName": "Bhavik",
+            "lName": "Verma",
+            "email": "vbhavik@gmail.com",
+            "birthdate": "1191095309",
+            "isActive": false,
+            "product": []
+        }, {
+            "fName": "Keshav",
+            "lName": "Shah",
+            "email": "keshav@gmail.com",
+            "birthdate": "1191095309",
+            "isActive": true,
+            "product": [{
+                "name": "Bag",
+                "price": "2190",
+                "discount": "10"
+            }, {
+                "name": "Wallet",
+                "price": "500",
+                "discount": "13"
+            }]
+        }, {
+            "fName": "Anushka",
+            "lName": "Mukharji",
+            "email": "anuu1@gmail.com",
+            "birthdate": "1191095309",
+            "isActive": true,
+            "product": [{
+                "name": "CK tshirt",
+                "price": "1500",
+                "discount": "10"
+            }, {
+                "name": "Jeans",
+                "price": "8500",
+                "discount": "12"
+            }, {
+                "name": "Shirt",
+                "price": "1500",
+                "discount": "1"
+            }, {
+                "name": "Sleev Shirt",
+                "price": "1100",
+                "discount": "19"
+            }]
+        }, {
+            "fName": "Jinesh",
+            "lName": "Patel",
+            "email": "jinesh@gmail.com",
+            "birthdate": "1101095309",
+            "isActive": true,
+            "product": [{
+                "name": "Chair",
+                "price": "500",
+                "discount": "10"
+            }, {
+                "name": "Sofa",
+                "price": "8500",
+                "discount": "12"
+            }]
+        }, {
+            "fName": "Akshay",
+            "lName": "Kumar",
+            "email": "Akshay@gmail.com",
+            "birthdate": "1111095309",
+            "isActive": true,
+            "product": [{
+                    "name": "Mobile",
+                    "price": "25000",
+                    "discount": "12"
+                }, {
+                    "name": "LG TV",
+                    "price": "18500",
+                    "discount": "19"
+                },
+                {
+                    "name": "Radio",
+                    "price": "9900",
+                    "discount": "6"
+                }
+            ]
+        },
+        {
+            "fName": "John",
+            "lName": "White",
+            "email": "john@gmail.com",
+            "birthdate": "1121095309",
+            "isActive": true,
+            "product": []
+        }, {
+            "fName": "Mukesh",
+            "lName": "Jani",
+            "email": "mukesh@gmail.com",
+            "birthdate": "1141095309",
+            "isActive": true,
+            "product": [{
+                    "name": "Shampoo",
+                    "price": "190",
+                    "discount": "3"
+                }, {
+                    "name": "Shoap",
+                    "price": "480",
+                    "discount": "5"
+                },
+                {
+                    "name": "Bucket",
+                    "price": "410",
+                    "discount": "40"
+                }
+            ]
+        }, {
+            "fName": "Anil",
+            "lName": "Sharma",
+            "email": "anil@gmail.com",
+            "birthdate": "1151095309",
+            "isActive": true,
+            "product": [{
+                "name": "Router",
+                "price": "2100",
+                "discount": "20"
+            }, {
+                "name": "Lan cable",
+                "price": "1500",
+                "discount": "43"
+            }]
+        },
+        {
+            "fName": "Mac",
+            "lName": "Jackson",
+            "email": "macj21@gmail.com",
+            "birthdate": "1177095309",
+            "isActive": true,
+            "product": [{
+                "name": "Mac Air",
+                "price": "156000",
+                "discount": "8"
+            }]
+        }, {
+            "fName": "Bhavik",
+            "lName": "Verma",
+            "email": "vbhavik@gmail.com",
+            "birthdate": "1191095309",
+            "isActive": false,
+            "product": []
+        }, {
+            "fName": "Keshav",
+            "lName": "Shah",
+            "email": "keshav@gmail.com",
+            "birthdate": "1191095309",
+            "isActive": true,
+            "product": [{
+                "name": "Bag",
+                "price": "2190",
+                "discount": "10"
+            }, {
+                "name": "Wallet",
+                "price": "500",
+                "discount": "13"
+            }]
+        }, {
+            "fName": "Anushka",
+            "lName": "Mukharji",
+            "email": "anuu1@gmail.com",
+            "birthdate": "1191095309",
+            "isActive": true,
+            "product": [{
+                "name": "CK tshirt",
+                "price": "1500",
+                "discount": "10"
+            }, {
+                "name": "Jeans",
+                "price": "8500",
+                "discount": "12"
+            }, {
+                "name": "Shirt",
+                "price": "1500",
+                "discount": "1"
+            }, {
+                "name": "Sleev Shirt",
+                "price": "1100",
+                "discount": "19"
+            }]
+        }
+    ]
+
+}

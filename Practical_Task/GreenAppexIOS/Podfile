@@ -1,0 +1,16 @@
+platform :ios, '11.0'
+inhibit_all_warnings!
+
+target 'GreenAppexIOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GreenAppexIOS
+
+  # Loader
+  pod 'SVProgressHUD'
+    
+  # Image Setup
+  pod 'Kingfisher', '~> 4.10'
+  
+end

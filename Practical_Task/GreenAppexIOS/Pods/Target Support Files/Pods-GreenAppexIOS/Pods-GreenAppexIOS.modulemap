@@ -1,0 +1,6 @@
+framework module Pods_GreenAppexIOS {
+  umbrella header "Pods-GreenAppexIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
